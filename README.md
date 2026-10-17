@@ -14,6 +14,7 @@
 **The "Sputnik Moment":** Industry analysts described the launch as a "Sputnik moment" that disrupted US tech dominance and turned the global AI landscape into a bipolar US-China dynamic
 
 **2. The Tech & Semiconductor Market Crash**
+
 Record Nvidia Wipeout: On January 27, 2025, Nvidia suffered a ~$600 billion single-day market value loss — the largest one-day wipeout in US stock market history
 . Its stock fell 11.7% pre-market
 
