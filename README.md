@@ -2,7 +2,7 @@
 
 # Rayyan's Part 
 
-# DeepSeek vs OpenAI & The Market Disruption**
+# DeepSeek vs OpenAI & The Market Disruption
 
 **1. The Launch Shockwave (January 2025)**
 
