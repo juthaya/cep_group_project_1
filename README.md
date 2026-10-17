@@ -77,12 +77,21 @@ The Efficiency Disruption: DeepSeek’s release of open-weight reasoning models 
 # Sources
 
 https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026
+
 https://endowus.com/insights/endowus-market-insights-jan-2025
+
 https://hai.stanford.edu/ai-index/2026-ai-index-report/economy
+
 https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/tmt-deepseeks-latest-ai-model-prompts-market-frenzy-but-investors-should-remember-to-stay-the-course
+
 https://global.morningstar.com/en-eu/stocks/deepseek-stocks-slide-chinese-ai-disruption
+
 https://www.ssga.com/us/en/intermediary/insights/beyond-deepseek-chinas-2026-model-wave-and-the-repricing-of-the-ai-stack
+
 https://www.precedenceresearch.com/artificial-intelligence-in-banking-market
+
 https://coinlaw.io/ai-in-banking-statistics/
+
 https://azumo.com/artificial-intelligence/ai-insights/ai-in-customer-service-statistics
+
 https://www.nu.edu/blog/ai-statistics-trends/
