@@ -34,7 +34,7 @@ Record Nvidia Wipeout: On January 27, 2025, Nvidia suffered a ~$600 billion sing
 
 **Market Equilibrium:** Intelligence now trades in a bounded price band, capped from above by open-weight competition and supported from below by hardware and power scarcity
 
-**Part 3: What Is The Impact of AI On The Economy?**
+# What Is The Impact of AI On The Economy?
 
 **1. Macroeconomic Capex & Global Investment**
    
