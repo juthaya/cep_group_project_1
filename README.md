@@ -36,35 +36,53 @@ Record Nvidia Wipeout: On January 27, 2025, Nvidia suffered a ~$600 billion sing
 
 # What Is The Impact of AI On The Economy?
 
-**1. Macroeconomic Capex & Global Investment**
-   
-**Exceeding $1 Trillion in 2026:** Global AI-related investment is forecast to surpass $1 Trillion in 2026 ($581 billion in the US alone), according to Goldman Sachs Research
-. Cumulative investment since 2022 is projected at $1.8 trillion
+**1. Everyday Use: AI as a Core Macro Utility**
 
-**GDP Share Expansion:** AI capex as a share of US GDP is projected to climb from 1.8% in 2026 to 2.8% by 2028 (and 1.4% globally), placing it on par with historical general-purpose technology cycles like the personal computer and internet buildouts
+**From Novelty to Infrastructure:** AI has transitioned from an experimental software novelty into a foundational economic utility, with 77% of organizations using or actively exploring AI and 83% designating it as a top business priority
 
-**Surging Corporate Funding:** Corporate AI investment grew 127.5% in 2025, with Generative AI capturing nearly half of all private AI funding
+**Mass Consumer Adoption:** Generative AI achieved 53% global adoption in just three years—spreading faster than either the personal computer or the internet
+. Today, over 55% to 77% of consumers regularly interact with AI tools in their daily lives, generating $172 billion in annual US consumer surplus value
 
-**2. Organizational & Consumer Adoption**
-Rapid Spread: Generative AI reached 53% global adoption in three years — spreading faster than either the PC or the internet
+**Trillion-Dollar Macro Footprint:** Worldwide AI-related investment is projected to surpass $1 Trillion in 2026 ($581 billion in the US alone)
+. AI capital expenditure is expected to reach 1.8% of US GDP in 2026 and climb to 2.8% by 2028, placing it on par with major historical technology buildouts like the internet
 
-**Enterprise Adoption:** 88% of surveyed organizations adopted AI in 2025, with 70% using GenAI in at least one business function
+**2. Real-World Sectors:** Concrete Impact on Banks & Stores
+Banking & Financial Institutions
+Automated Compliance & Risk: 89% of financial institutions monitor regulatory compliance in real time using AI, reducing compliance-related operational costs by 19% and cutting audit preparation times by 35%
 
-**Consumer Surplus:** The annual economic surplus value generated for US consumers by GenAI tools reached $172 billion in 2026
+**Fraud Prevention:** AI-driven fraud detection systems are deployed across 87% of global banks, intercepting 92% of fraudulent attempts before approval and reducing false alerts by up to 80%
 
-**3. Enterprise Strategy: How Companies Use AI**
-   
-**The Hybrid Deployment Model:** Most enterprises do not rely on a single AI provider
-. Instead, they use hybrid architectures: routing complex, high-stakes reasoning to expensive closed models (like OpenAI or Anthropic) while running routine, high-volume operational tasks on cheaper open-weight models (like DeepSeek or Alibaba's Qwen)
-Open-Source Standard: Approximately 80% of US open-source AI startups build on Chinese open models like Qwen
-. Companies like Airbnb run these open models directly in production
+**Credit Scoring & Underwriting:** AI is now involved in over 70% of loan underwriting decisions among top-tier US banks. AI models accelerate loan processing times by 25% (often under 6 minutes) while improving approval accuracy by 34%
 
-**Big Tech Capex Acceleration:** Hyperscalers continue to spend heavily to host both open and closed models; for example, Google reported annual capex exceeding $150 billion
-. Lower intelligence unit costs spur higher overall token and compute usage (Jevons Paradox)
+**Scalable Customer Service:** Chatbots and virtual assistants handle 70% to 85% of Tier 1 banking queries. For instance, Bank of America’s Erica assistant has processed over 2 billion interactions, resolving 98% of customer queries in under 44 seconds
 
-**5. Productivity Gains vs. Labor Market Disruptions**
+**Retail & E-Commerce Stores**
 
-**Measurable Productivity Boosts:** Software development output increased by 26%, customer support efficiency by 14–15%, and marketing output by 50%
+**Dominant Market Share:** Retail and e-commerce hold 21.2% of the total conversational AI market share—the largest of any industry vertical
 
-**Software Engineering Displacement:** Employment for junior software developers (ages 22–25) dropped nearly 20%
-. One-third of organizations expect AI to reduce their workforce over the coming year, with software engineering, service operations, and supply chains facing the highest expected cuts
+**Cost Reduction & Efficiency:** 94% of retail companies using customer service AI report reduced operational costs, driving cost per interaction down by 68% (from $4.60 to $1.45)
+
+**Inventory & Personalization:** 40% of businesses utilize AI for automated inventory prediction and management
+. Automated post-sale conversational AI engagement boosts repeat customer purchases by 36%
+
+**3. The Macroeconomic Shift:** Post-DeepSeek Market Repricing & Democratization
+The Efficiency Disruption: DeepSeek’s release of open-weight reasoning models at a reported ~95% cost discount challenged the industry assumption that AI progress requires brute-force hardware spending
+
+**The Intelligence Price Band:** In response to open-weight competition, commercial providers like OpenAI slashed GPT-5.6 Luna API prices by ~80%
+. This created an "intelligence price ceiling" where mid-tier AI capabilities become utility-priced commodities
+
+**Lowering Barriers to Entry:** Plummeting token costs allow mid-sized enterprises and small businesses to harness enterprise-grade AI without multi-million-dollar capital budgets
+. In fact, mid-market retailers are deploying AI chatbots 3x faster than enterprise giants, and 58% of analytics deployments for models like Claude occur at small businesses with 10 or fewer employees.
+
+# Sources
+
+https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026
+https://endowus.com/insights/endowus-market-insights-jan-2025
+https://hai.stanford.edu/ai-index/2026-ai-index-report/economy
+https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/tmt-deepseeks-latest-ai-model-prompts-market-frenzy-but-investors-should-remember-to-stay-the-course
+https://global.morningstar.com/en-eu/stocks/deepseek-stocks-slide-chinese-ai-disruption
+https://www.ssga.com/us/en/intermediary/insights/beyond-deepseek-chinas-2026-model-wave-and-the-repricing-of-the-ai-stack
+https://www.precedenceresearch.com/artificial-intelligence-in-banking-market
+https://coinlaw.io/ai-in-banking-statistics/
+https://azumo.com/artificial-intelligence/ai-insights/ai-in-customer-service-statistics
+https://www.nu.edu/blog/ai-statistics-trends/
