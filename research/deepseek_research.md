@@ -69,6 +69,26 @@ DeepSeek's achievements suggested that improvements in algorithms and computing 
 
 ## 5. Industry and Market Reactions
 
+On January 27, 2025, DeepSeek's rapid rise triggered significant reactions across global financial markets, particularly among American technology companies involved in artificial intelligence.
+
+Investors became concerned that DeepSeek's reported computational efficiency could challenge the assumption that developing competitive AI systems required increasingly expensive hardware and infrastructure.
+
+**Nvidia**, one of the world's leading manufacturers of AI computing chips, experienced a particularly significant decline. Its shares fell approximately 17% on January 27, wiping out nearly $593 billion in market capitalization in a single trading session.
+
+Other technology companies involved in AI infrastructure, including Broadcom, Microsoft, and major semiconductor businesses, also faced selling pressure as investors reassessed expectations for future AI spending.
+
+The market reaction was driven partly by concerns that more efficient AI models could reduce demand for expensive computing infrastructure. However, this interpretation was debated. Some industry observers argued that making AI cheaper could instead increase its adoption, potentially creating greater overall demand for computing resources.
+
+DeepSeek's emergence also intensified competition between Chinese and American artificial intelligence companies. Its success raised questions about whether established AI developers could maintain their technological advantages through large investments in computing infrastructure alone.
+
+The release attracted attention from developers and businesses interested in alternatives to proprietary AI systems. DeepSeek's openly available model weights created opportunities for organizations to experiment with advanced reasoning models without relying exclusively on commercial API providers.
+
+Ultimately, DeepSeek's emergence demonstrated that advances in AI efficiency could influence not only software development but also investor expectations, technology valuations, and global competition in artificial intelligence.
+
+**Sources:**
+- [Reuters — Nvidia loses nearly $593 billion in market value (January 27, 2025)](https://www.reuters.com/technology/artificial-intelligence/nvidia-shares-plunge-deepseek-ai-model-raises-questions-about-us-tech-spending-2025-01-27/)
+- [DeepSeek-R1 Technical Report](https://arxiv.org/abs/2501.12948)
+
 ## 6. Impact on Software Development
 
 ## 7. Conclusion
