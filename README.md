@@ -1,6 +1,5 @@
 # cep_group_project_1
 
-# Rayyan's Part 
 # How Much Does AI Actually Cost?
 
 The cost of artificial intelligence varies depending on whether someone uses a free chatbot, integrates AI into a business, or develops a large AI model. Everyday tools can be free or cost around $20 per month, while developing advanced AI systems can cost hundreds of millions of dollars or more.
@@ -48,6 +47,8 @@ For example, a business making 10,000 requests monthly, each using 1,000 input t
 **Measuring Value:** Businesses should compare the total cost of AI with the money saved, productivity gained, and additional revenue generated.
 
 Ultimately, AI is worth its cost when the value it creates exceeds the expense of developing, operating, and maintaining it.
+
+# Rayyan's Part 
 
 # DeepSeek vs OpenAI & The Market Disruption
 
