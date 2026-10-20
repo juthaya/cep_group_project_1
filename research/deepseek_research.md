@@ -144,4 +144,18 @@ Overall, DeepSeek demonstrated that improvements in AI efficiency and access to 
 
 ## 7. Conclusion
 
+DeepSeek's emergence in January 2025 marked an important development in the global artificial intelligence industry. Through the release of DeepSeek-V3 and DeepSeek-R1, the company demonstrated that competitive AI systems could be developed using innovative architectures and more computationally efficient training methods.
+
+DeepSeek-V3's reported pretraining compute cost of approximately $5.576 million challenged assumptions about the resources required to train advanced AI models. However, this figure represented only the estimated computing expenses of its final pretraining run, rather than the total cost of developing the technology.
+
+The release of DeepSeek-R1 also demonstrated the potential of reinforcement learning to improve AI reasoning capabilities. Its competitive benchmark results and openly available model weights provided developers and researchers with additional opportunities to experiment with advanced AI systems.
+
+The financial markets reacted strongly, particularly on January 27, 2025, when Nvidia experienced a historic decline in market capitalization. This reflected investor uncertainty about future spending on AI infrastructure and the competitive position of established technology companies.
+
+For software developers, DeepSeek's significance extended beyond financial markets. Its models highlighted opportunities for AI-assisted programming, customized applications, and greater flexibility in selecting and deploying AI technologies.
+
+Ultimately, DeepSeek's breakthrough demonstrated that innovation in artificial intelligence is not determined solely by the amount of money invested in computing infrastructure. Improvements in algorithms, training techniques, and model efficiency can also play an important role in advancing AI capabilities.
+
+DeepSeek's long-term impact remains uncertain, but its January 2025 emergence helped reshape discussions about AI development costs, competition, and accessibility.
+
 ## 8. References
