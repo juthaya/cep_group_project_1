@@ -44,6 +44,29 @@ Together, DeepSeek-V3 and DeepSeek-R1 demonstrated how architectural efficiency,
 
 ## 4. Training Costs and Computational Efficiency
 
+In January 2025, DeepSeek attracted global attention partly because of its reported low training costs compared with those commonly associated with leading American AI models.
+
+According to DeepSeek's technical report, the final pretraining run for **DeepSeek-V3 cost approximately $5.576 million** in estimated GPU computing expenses. The model was trained using 2.788 million H800 GPU-hours, calculated at an assumed rental rate of $2 per GPU-hour.
+
+However, this figure did not represent the total cost of developing DeepSeek's artificial intelligence technology. It excluded expenses associated with earlier research, experiments, hardware acquisition, personnel, and other development activities. It also referred specifically to DeepSeek-V3's pretraining rather than the complete development cost of DeepSeek-R1.
+
+DeepSeek achieved computational efficiency through several technical innovations:
+
+- **Mixture-of-Experts (MoE):** Instead of activating the entire neural network for every token, the model activates a smaller subset of its parameters, reducing the computing resources required for processing.
+- **Multi-head Latent Attention (MLA):** An attention mechanism designed to reduce memory requirements, particularly when processing large amounts of text.
+- **FP8 Mixed-Precision Training:** Uses lower-precision numerical calculations for parts of training to improve computational efficiency while maintaining model performance.
+- **Optimized Training Infrastructure:** DeepSeek used techniques designed to improve communication and workload distribution across its GPU clusters.
+
+These developments challenged the assumption that competitive AI models necessarily required the same level of computing expenditure as the largest American AI initiatives.
+
+Nevertheless, comparing AI development costs between companies remains difficult because organizations may report different expenses, training stages, and infrastructure costs.
+
+DeepSeek's achievements suggested that improvements in algorithms and computing efficiency could play an increasingly important role in the future of artificial intelligence.
+
+**Sources:**
+- [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+- [DeepSeek-R1 Technical Report](https://arxiv.org/abs/2501.12948)
+
 ## 5. Industry and Market Reactions
 
 ## 6. Impact on Software Development
