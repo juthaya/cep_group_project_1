@@ -1,5 +1,53 @@
 # cep_group_project_1
 
+# How Much Does AI Actually Cost?
+
+The cost of artificial intelligence varies depending on whether someone uses a free chatbot, integrates AI into a business, or develops a large AI model. Everyday tools can be free or cost around $20 per month, while developing advanced AI systems can cost hundreds of millions of dollars or more.
+
+## 1. Everyday Use: Free AI and Subscriptions
+
+**Free AI Tools:** Many AI assistants offer free versions for writing, studying, research, and answering questions, although usage limits may apply.
+
+**Premium Subscriptions:** Services such as ChatGPT Plus and Claude Pro have offered plans around $20 per month in the United States. One subscription costs approximately $240 annually before taxes.
+
+**Consumer Spending:** Paying for multiple AI subscriptions can quickly increase expenses, while free versions may be sufficient for casual users.
+
+## 2. Business Use: API Costs and Implementation
+
+**AI for Businesses:** Companies use AI for customer service, marketing, data analysis, and document processing. Costs depend on the tools and amount of usage.
+
+**API Pricing:** Businesses often pay according to the number of tokens processed. Smaller models generally cost less than advanced models.
+
+For example, a business making 10,000 requests monthly, each using 1,000 input tokens and generating 500 output tokens, could pay around $3.50 to $70 in API fees under illustrative pricing assumptions.
+
+**Hidden Expenses:** Software integration, developers, hosting, employee training, cybersecurity, and human oversight can make implementation considerably more expensive.
+
+## 3. The Big Money: Training AI Models
+
+**Model Development:** Training advanced AI models requires specialised chips, computing infrastructure, electricity, and skilled researchers. These expenses can reach hundreds of millions of dollars.
+
+**Data Centres:** AI also requires substantial investment in data centres, cooling systems, and power infrastructure. Goldman Sachs Research projected that global data centre power demand could increase by 170% between 2025 and 2030.
+
+**Why It Costs So Much:** Hardware, research staff, experimentation, and ongoing infrastructure make developing advanced AI far more expensive than using an existing model.
+
+## 4. Why AI Is Becoming Cheaper
+
+**Lower Operating Costs:** Competition, smaller models, and improved technology can reduce the cost of running AI systems.
+
+**Open Weight Models:** Businesses can run certain models on their own infrastructure, potentially reducing API expenses. However, hardware, electricity, and maintenance still cost money.
+
+**Greater Accessibility:** Falling prices allow more individuals and smaller businesses to use AI, although increased usage can raise total spending.
+
+## 5. Is AI Worth the Cost?
+
+**Productivity and Savings:** AI can reduce time spent on repetitive tasks, improve efficiency, and support business growth.
+
+**The Risk of Overspending:** Incorrect outputs, training, integration, and human verification can reduce potential savings.
+
+**Measuring Value:** Businesses should compare the total cost of AI with the money saved, productivity gained, and additional revenue generated.
+
+Ultimately, AI is worth its cost when the value it creates exceeds the expense of developing, operating, and maintaining it.
+
 # Rayyan's Part 
 
 # DeepSeek vs OpenAI & The Market Disruption
