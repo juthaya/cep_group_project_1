@@ -2,6 +2,16 @@
 
 ## 1. Introduction
 
+In January 2025, a Chinese artificial intelligence company called DeepSeek attracted international attention following the release of DeepSeek-R1, an advanced AI model designed for reasoning, mathematics, and computer programming.
+
+DeepSeek's announcement challenged prevailing assumptions about the financial and computational resources required to develop competitive artificial intelligence systems. Its earlier DeepSeek-V3 model had reportedly been trained with approximately $5.576 million in estimated pretraining computing expenses, significantly influencing discussions about AI development costs.
+
+The emergence of DeepSeek also caused major reactions throughout the technology industry. On January 27, 2025, Nvidia experienced a historic decline in market capitalization as investors questioned whether future AI development would require the same level of investment in expensive computing infrastructure.
+
+Beyond its financial impact, DeepSeek's release was significant for software developers. By making its reasoning model weights publicly available, DeepSeek provided developers and researchers with additional opportunities to experiment with advanced AI technologies, develop applications, and explore alternatives to proprietary AI systems.
+
+This research examines DeepSeek's background, its major AI models, training efficiency, industry reactions, and potential implications for the future of software development.
+
 ## 2. Background of DeepSeek
 
 DeepSeek is a Chinese artificial intelligence company founded in 2023 by Liang Wenfeng and based in Hangzhou, China. Liang was also a co-founder of High-Flyer, a quantitative hedge fund that used artificial intelligence in financial research.
