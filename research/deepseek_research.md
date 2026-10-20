@@ -159,3 +159,26 @@ Ultimately, DeepSeek's breakthrough demonstrated that innovation in artificial i
 DeepSeek's long-term impact remains uncertain, but its January 2025 emergence helped reshape discussions about AI development costs, competition, and accessibility.
 
 ## 8. References
+
+The following sources were used to research DeepSeek's development, technical innovations, training costs, market reactions, and implications for software development.
+
+1. **DeepSeek-AI. (2024). DeepSeek-V3 Technical Report.**
+   Technical research describing DeepSeek-V3's architecture, Mixture-of-Experts design, training methodology, and computational efficiency.
+   https://arxiv.org/abs/2412.19437
+
+2. **DeepSeek-AI. (2025). DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.**
+   Research paper examining DeepSeek-R1's reasoning capabilities, reinforcement learning techniques, and benchmark results.
+   https://arxiv.org/abs/2501.12948
+
+3. **DeepSeek-AI. DeepSeek-R1 Official GitHub Repository.**
+   Official repository containing model information, implementation details, licensing, and links to model weights.
+   https://github.com/deepseek-ai/DeepSeek-R1
+
+4. **Reuters. (January 27, 2025). What is DeepSeek and why is it disrupting the AI sector?**
+   Background reporting on DeepSeek, its founders, and the international attention surrounding its AI models.
+   https://www.reuters.com/technology/artificial-intelligence/what-is-deepseek-why-is-it-disrupting-ai-sector-2025-01-27/
+
+5. **Reuters. (January 27, 2025). Nvidia shares plunge as DeepSeek AI model raises questions about US tech spending.**
+   Reporting on the market reaction to DeepSeek, including Nvidia's share-price decline and investor concerns about AI infrastructure spending.
+   https://www.reuters.com/technology/artificial-intelligence/nvidia-shares-plunge-deepseek-ai-model-raises-questions-about-us-tech-spending-2025-01-27/
+
