@@ -30,7 +30,7 @@ Our presentation examines DeepSeek's technology, its reported development costs,
 
 ### Presentation Video
 
-YouTube link: *To be added after uploading the final presentation.*
+YouTube link: https://www.youtube.com/watch?v=0nj4bpuNwKo
 
 ### Group Members
 
