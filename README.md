@@ -35,7 +35,7 @@ YouTube link: https://www.youtube.com/watch?v=0nj4bpuNwKo
 ### Group Members
 
 - Janeeshan Uthayakumar
-- Rayyann Sharif
+- Rayyan Ahmed Mohamed Sharif
 - Darryl Hyde
 
 ### Project Files
