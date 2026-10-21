@@ -32,6 +32,12 @@ Our presentation examines DeepSeek's technology, its reported development costs,
 
 YouTube link: *To be added after uploading the final presentation.*
 
+### Group Members
+
+- Janeeshan Uthayakumar
+- Rayyann Sharif
+- Darryl Hyde
+
 ### Project Files
 
 - `research/` – Research and supporting information
